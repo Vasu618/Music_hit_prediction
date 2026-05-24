@@ -141,4 +141,4 @@ Start the FastAPI server and send a POST request to `/predict`.
 
 ## Author
 
-Vasu
+Jyoti Basu
